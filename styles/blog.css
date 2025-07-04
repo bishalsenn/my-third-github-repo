@@ -2,3 +2,7 @@ div{
     background-color: hwb(180 13% 24%);
 padding: 10px; margin-bottom: 10% ;
 }
+.class{
+    background-color: blueviolet;
+    box-shadow: 20px solid rgb(230, 135, 12);
+}
